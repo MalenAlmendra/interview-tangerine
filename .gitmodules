@@ -1,0 +1,4 @@
+[submodule "front-tangerine"]
+	path = front-tangerine
+	url = https://github.com/MalenAlmendra/front-tangerine.git
+	branch = master
